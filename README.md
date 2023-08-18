@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com](https://dolly-pee.github.io/Calculator-WebApp/)
-- Live Site URL: [live site URL](https://your-live-site-url.com](https://dolly-pee.github.io/Calculator-WebApp/)
+- Solution URL: [solution URL](https://dolly-pee.github.io/Calculator-WebApp/)
+- Live Site URL: [live site URL](https://dolly-pee.github.io/Calculator-WebApp/)
 
 ## My process
 
